@@ -1,0 +1,13 @@
+name: prueba
+version: 0.1.0
+
+authors:
+  - Giankrp <gianruiz2003@gmail.com>
+
+targets:
+  prueba:
+    main: src/prueba.cr
+
+crystal: 1.9.2
+
+license: MIT
