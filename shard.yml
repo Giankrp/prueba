@@ -8,6 +8,10 @@ targets:
   prueba:
     main: src/prueba.cr
 
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
 crystal: 1.9.2
 
 license: MIT
